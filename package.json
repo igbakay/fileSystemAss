@@ -1,0 +1,19 @@
+{
+  "name": "filesystemass",
+  "version": "1.0.0",
+  "description": "file system assignment for zuri interns",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igbakay/fileSystemAss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igbakay/fileSystemAss/issues"
+  },
+  "homepage": "https://github.com/igbakay/fileSystemAss#readme"
+}
